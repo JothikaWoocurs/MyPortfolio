@@ -37,7 +37,7 @@ header {
 }
 
 .navigation a:hover {
-    color: #f39c12;
+    color: #ff7777;
 }
 /* Hero Section Styling */
 .hero {
@@ -45,7 +45,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 4rem 10%;
-    background-color: #0a0a0a; /* Dark background */
+    background-color: #0a011c; 
     color: #fff; /* Light text */
     height: 562px; 
 }
@@ -416,7 +416,7 @@ header {
 
 /* General Footer Styling */
 footer {
-    background-color: #1f3b74;
+    background-color:#0a011c;
     color: #ffffff;
     padding: 2rem 10%;
     font-family: Arial, sans-serif;
@@ -509,7 +509,7 @@ footer {
 }
 
 .social-icons a:hover {
-    color: #ffcc00;
+    color: #ff7777;;
 }
 
 /* Bottom Footer Section */
